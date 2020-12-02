@@ -1,4 +1,4 @@
-# Pacman
+# Pacman-runner (Unity)
 pacman-game-project in unity
 
 Link to the game (hosted via SIMMER.io)
